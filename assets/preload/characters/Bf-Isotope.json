@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-283,
+				-120
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": false,
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				-283,
+				-120
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": " idle-alt"
+		},
+		{
+			"offsets": [
+				-306,
+				-79
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": " right"
+		},
+		{
+			"offsets": [
+				-202,
+				-3
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": " up"
+		},
+		{
+			"offsets": [
+				-300,
+				-155
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": " down"
+		},
+		{
+			"offsets": [
+				-164,
+				-118
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": " left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend_Isotope",
+	"position": [
+		-1170,
+		310
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-610,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
